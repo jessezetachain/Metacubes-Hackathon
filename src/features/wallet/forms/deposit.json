@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "name": "assetAddress",
+            "label": "Asset",
+            "type": "TextField",
+            "placeholder":"Asset",
+            "grid": {
+                "xs": 12,
+                "sm": 12
+            }
+        },
+        {
+            "name": "amount",
+            "label": "Amount",
+            "type": "TextField",
+            "placeholder":"Amount",
+            "grid": {
+                "xs": 12,
+                "sm": 12
+            }
+        }
+    ]
+}

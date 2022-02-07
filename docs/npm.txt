@@ -1,0 +1,47 @@
+npx create-react-app . --template redux-typescript
+
+npm install --save rxjs redux redux-observable redux-devtools-extension @types/redux react-redux @types/react-redux
+
+npm install --save @mui/material @emotion/react @emotion/styled @mui/icons-material
+
+npm install --save-dev jest @types/jest
+
+npm install --save ethers
+
+DAO
+
+    Login
+    Logout
+    Create proposal
+    Execute proposal
+    Cancel proposal
+    Vote
+    Exit
+
+
+WALLET
+    Login
+    Logout
+    Deposit
+    Withdraw
+    Liquidate
+    Withdraw Interest
+    Transfer
+    Swap
+    Borrow
+    Flash Borrow
+
+
+METAVERSE
+    Login
+    Logout
+    Banking Services
+    Consumer Transactions
+    Manage spaces
+    Explore spaces
+    Join spaces
+    Leave spaces
+    Chat
+    Voice call
+    Video call
+    Play game

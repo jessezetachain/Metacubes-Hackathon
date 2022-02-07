@@ -1,0 +1,34 @@
+{
+    "fields": [
+        {
+            "name": "tokenInAddress",
+            "label": "From",
+            "type": "TextField",
+            "placeholder":"Supply Token",
+            "grid": {
+                "xs": 12,
+                "sm": 6
+            }
+        },
+        {
+            "name": "tokenOutAddress",
+            "label": "To",
+            "type": "TextField",
+            "placeholder":"Receive Token",
+            "grid": {
+                "xs": 12,
+                "sm": 6
+            }
+        },
+        {
+            "name": "amount",
+            "label": "Amount",
+            "type": "TextField",
+            "placeholder":"Amount",
+            "grid": {
+                "xs": 12,
+                "sm": 12
+            }
+        }
+    ]
+}
